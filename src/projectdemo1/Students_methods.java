@@ -63,7 +63,7 @@ public class Students_methods {
 		}
 		if(count==i)
 		{
-		System.out.println("\n"+ i + " Records Added Successfully");	
+		System.out.println("\n"+ (i-1) + " Records Added Successfully");	
 		}
 	}
 
